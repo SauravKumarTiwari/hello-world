@@ -17,6 +17,7 @@
             </label>
             <input type="text" id="first" name="first" 
                 placeholder="Enter your Username" required>
+	    <br>
 
             <label for="password">
                 Password:
