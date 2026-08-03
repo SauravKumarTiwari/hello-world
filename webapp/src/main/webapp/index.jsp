@@ -13,7 +13,7 @@
     <label for="psw-repeat"><b>REPEAT PASSWORD</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 
-    <label for="mobile"><b>ENTER Mobile Number</b></label>
+    <label for="mobile"><b>ENTER Mobile Numbers</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <hr>
 
